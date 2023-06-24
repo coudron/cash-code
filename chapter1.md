@@ -6,12 +6,12 @@ The goal of this assignment is to ensure that you have a solid understanding of 
 
 Write a JavaScript program that declares two variables, x and y, assigns them the values 10 and 5 respectively, and then performs the following operations:
 
-Addition of x and y
-Subtraction of y from x
-Multiplication of x and y
-Division of x by y
-Modulus of x by y
-For each operation, use console.log to print the result.
+- Addition of x and y
+- Subtraction of y from x
+- Multiplication of x and y
+- Division of x by y
+- Modulus of x by y
+- For each operation, use console.log to print the result.
 
 ## Task 2: Type Conversion
 
