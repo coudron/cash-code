@@ -21,16 +21,7 @@ Create a variable numString with the value "10" and a variable num with the valu
 
 Declare two variables, a and b, and set them both to the string "5". Use both == and === to compare a and b, and print the result. Now change b to the number 5 and do the comparison again. What are your observations?
 
-## Task 4: Working with Arrays
-
-Create an array named fruit that contains the following fruits: "apple", "banana", "cherry". Then do the following:
-
-Print the first and last fruit from the array.
-Add "dragonfruit" to the end of the array.
-Replace "apple" with "apricot".
-Print the entire array.
-
-## Task 5: NaN and Undefined
+## Task 4: NaN and Undefined
 
 Create variables that hold the values NaN and undefined. Use typeof to determine their data types. Discuss what these two special cases represent in JavaScript.
 
