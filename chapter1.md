@@ -25,4 +25,4 @@ Declare two variables, a and b, and set them both to the string "5". Use both ==
 
 Create variables that hold the values NaN and undefined. Use typeof to determine their data types. Discuss what these two special cases represent in JavaScript.
 
-Submit your JavaScript code for each task, and include comments to explain your code and your observations. Due date is one week from today. Happy coding!
+Submit your JavaScript code for each task, and include comments to explain your code and your observations. Due date is Monday, June 26th, 2023. Happy coding!
